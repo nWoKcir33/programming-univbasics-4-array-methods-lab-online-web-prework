@@ -3,6 +3,8 @@ using_include = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_include.include?("Chelsea")
 end
 
+p using_include
+
 def using_sort
 using_sort = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_sort.sort
