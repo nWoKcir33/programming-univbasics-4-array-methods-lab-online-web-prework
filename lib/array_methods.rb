@@ -4,7 +4,8 @@ using_include.include?("Chelsea")
 end
 
 def using_sort(array)
-using_sort = 
+using_sort = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+using_sort.sort
 end
 
 def using_reverse(array)
