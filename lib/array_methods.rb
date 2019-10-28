@@ -19,7 +19,7 @@ using_first.first
 end
 
 def using_last(array)
-
+using_last = 
 end
 
 def using_size(array)
