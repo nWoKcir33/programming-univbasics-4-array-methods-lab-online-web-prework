@@ -18,10 +18,11 @@ using_first = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_first.first
 end
 
-def using_last(array)
-using_last = 
+def using_last
+using_last = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+using_last.last
 end
 
-def using_size(array)
-
+def using_size
+using_size = 
 end
