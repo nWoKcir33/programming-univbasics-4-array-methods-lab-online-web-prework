@@ -24,5 +24,6 @@ using_last.last
 end
 
 def using_size
-using_size = 
+using_size = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+using_size.size
 end
