@@ -1,10 +1,10 @@
-def using_include(array, element)
+def using_include
 using_include = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_include.include?("Chelsea")
 end
 
 def using_sort(array)
-
+using_sort = 
 end
 
 def using_reverse(array)
