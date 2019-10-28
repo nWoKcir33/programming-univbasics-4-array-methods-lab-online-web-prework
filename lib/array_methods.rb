@@ -8,12 +8,13 @@ using_sort = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_sort.sort
 end
 
-def using_reverse(array)
-using_reverse = 
+def using_reverse
+using_reverse = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+using_reverse.reverse
 end
 
 def using_first(array)
-
+using_first = 
 end
 
 def using_last(array)
