@@ -1,5 +1,6 @@
 def using_include(array, element)
-
+using_include = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+using_include.include?("Chelsea")
 end
 
 def using_sort(array)
