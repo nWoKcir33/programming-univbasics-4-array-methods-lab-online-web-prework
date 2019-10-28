@@ -14,7 +14,7 @@ using_reverse.reverse
 end
 
 def using_first(array)
-using_first = 
+using_first = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 end
 
 def using_last(array)
