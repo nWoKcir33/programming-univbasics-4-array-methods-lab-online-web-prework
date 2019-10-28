@@ -3,7 +3,7 @@ using_include = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_include.include?("Chelsea")
 end
 
-def using_sort(array)
+def using_sort
 using_sort = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 using_sort.sort
 end
